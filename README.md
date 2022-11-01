@@ -1,2 +1,3 @@
-# k8s_task
-В этом ДЗ вы научитесь создавать минимальный сервис.
+# ЗАДАЧИ OTUS
+
+Microservice Architecture
